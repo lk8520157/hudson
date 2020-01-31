@@ -11,7 +11,7 @@ Steps:
 
 You can upload your change to gerrit with commands like these:
 
-    git add lineage-build-targets updater/devices.json
+    git add exthm-build-targets updater/devices.json
     git commit
     git review
 
