@@ -1,3 +1,5 @@
 [
   {  "model": "polaris", "oem": "Xiaomi", "name": "Mi MIX 2S"}
+  {  "model": "sagit", "oem": "Xiaomi", "name": "Mi Mi6"}
+  {  "model": "mata", "oem": "Essential", "name": "PH-1"}  
 ]
