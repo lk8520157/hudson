@@ -1,8 +1,7 @@
 {
-    "polaris": [
-        "android_device_xiaomi_polaris",
-        "android_device_xiaomi_sdm845-common",
-        "android_kernel_xiaomi_sdm845",
+    "griffin": [
+        "device_sony_j9110",
+        "customization",
         "android_packages_resources_devicesettings"
     ]
 }
